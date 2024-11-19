@@ -1,2 +1,2 @@
 # Korpus_Abstimmungsbüchlein
-This Repository is greated to gather the data given in  the "Abstimmungsbüchlein" since 1978 you can find the pdf's with the following link:
+This Repository is greated to gather the data given in  the "Abstimmungsbüchlein" since 1978 you can find the pdf's with the following link: https://www.bk.admin.ch/bk/de/home/dokumentation/abstimmungsbuechlein.html
